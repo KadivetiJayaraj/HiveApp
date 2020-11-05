@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.jayaraj.hime">
+
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="com.quickblox.sample.messages.permission.C2D_MESSAGE" />
+    <uses-permission
+        android:name="android.permission.WRITE_APN_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="true" />
+
+    <application
+        android:name=".ui.quickblox.App"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme1"
+        android:usesCleartextTraffic="true"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".ui.chat.MainTabScreen"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.dashboard.MoreActvity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme1"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.chat.MainChatScreen"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.dashboard.EditUserProfile"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme1"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.chat.AddGroupActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme1"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.chat.VideoPlayerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme1"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.chat.FileDownloadActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme1"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.chat.ImageFullScreenActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme1"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.chat.ChatScreenActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme1"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.contacts.RegisteredContacts"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme1"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.SplashScreen"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            tools:ignore="LockedOrientationActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.AddProfileActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.VerifyActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+
+        <meta-data
+            android:name="firebase_performance_logcat_enabled"
+            android:value="true" />
+        <meta-data
+            android:name="firebase_crashlytics_collection_enabled"
+            android:value="false" />
+
+        <activity
+            android:name=".ui.quickblox.activities.PermissionsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.quickblox.activities.CallActivity"
+            android:configChanges="keyboardHidden|screenSize|orientation"
+            android:excludeFromRecents="true"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/BaseAppTheme" />
+        <activity
+            android:name=".ui.quickblox.activities.SettingsActivity"
+            android:configChanges="keyboardHidden|screenSize|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+
+        <service android:name=".ui.quickblox.services.LoginService" />
+        <service android:name=".ui.quickblox.services.CallService" />
+        <service android:name=".ui.quickblox.services.fcm.PushListenerService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name="com.quickblox.messages.services.fcm.QBFcmPushInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.quickblox.messages.TYPE"
+            android:value="GCM" />
+        <meta-data
+            android:name="com.quickblox.messages.SENDER_ID"
+            android:value="@string/sender_id" />
+        <meta-data
+            android:name="com.quickblox.messages.QB_ENVIRONMENT"
+            android:value="DEVELOPMENT" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+    </application>
+
+</manifest>

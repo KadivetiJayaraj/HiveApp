@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.AddProfileActivity">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profileImage"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="150dp"
+        app:civ_border_width="1dp"
+        app:civ_border_color="@color/black"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_account_circle_black_24dp" />
+
+
+    <EditText
+        android:id="@+id/profileName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profileImage"
+        android:layout_centerInParent="true"
+        android:ems="10"
+        android:backgroundTint="@color/colorAccent"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        android:hint="@string/name" />
+
+    <EditText
+        android:id="@+id/about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profileName"
+        android:layout_centerInParent="true"
+        android:ems="10"
+        android:backgroundTint="@color/colorAccent"
+        android:text="@string/hi_i_am_using_hime"
+        android:textSize="14sp"
+        android:maxLength="120"
+        android:textStyle="normal"
+        android:hint="@string/about" />
+
+    <Button
+        android:id="@+id/done"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/about"
+        android:background="@color/colorAccent"
+        android:layout_marginTop="30dp"
+        android:text="@string/done" />
+
+</RelativeLayout>

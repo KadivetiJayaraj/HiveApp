@@ -1,0 +1,35 @@
+
+F
+java:S1066ª"/Merge this if statement with the enclosing one.(ß¸é
+W	java:S110H"=This class has 10 parents which is greater than 5 authorized.(ºÂ‰¿ùÿÿÿÿ
+>
+java:S1604ì"(Make this anonymous inner class a lambda(®àÕx
+>
+java:S1604ü"(Make this anonymous inner class a lambda(®àÕx
+D
+java:S1604´"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
+D
+java:S1604“"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
+D
+java:S1604ô"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
+
+java:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÇÛÍ§úÿÿÿÿ
+
+java:S1186ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉÍşˆüÿÿÿÿ
+˜
+java:S1186ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë½‡¬
+O
+java:S1874u"9Remove this use of "PreferenceManager"; it is deprecated.(À—Ãî
+N
+java:S1874u"8Remove this use of "setDefaultValues"; it is deprecated.(À—Ãî
+N
+java:S1874v"9Remove this use of "PreferenceManager"; it is deprecated.(âÙÒo
+X
+java:S1874v"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(âÙÒo
+
+java:S1186Õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹ùÇ¡üÿÿÿÿ
+K
+java:S3398‘"/Move this method into "ConnectionListenerImpl".(™—ïÒıÿÿÿÿ
+@
+java:S3398Í"*Move this method into "CallTimerCallback".(¸ÄÀ
+R	java:S125·"<This block of commented-out lines of code should be removed.( ³’Û

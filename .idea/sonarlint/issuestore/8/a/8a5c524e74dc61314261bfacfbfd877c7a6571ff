@@ -1,0 +1,32 @@
+
+J
+java:S1874&"/Remove this use of "replace"; it is deprecated.(û¶ó™øÿÿÿÿ
+U
+java:S1874]":Remove this use of "EditTextPreference"; it is deprecated.(Ú—êÿÿÿÿÿ
+R
+java:S18743"<Remove this use of "getSharedPreferences"; it is deprecated.(„Ìƒ
+N
+java:S1874%"8Remove this use of "beginTransaction"; it is deprecated.(Íê£Ù
+J
+java:S1874^"/Remove this use of "setText"; it is deprecated.(íÕ¦ˆûÿÿÿÿ
+H
+java:S1874["2Remove this use of "Preference"; it is deprecated.(´²°á
+U
+java:S1874$":Remove this use of "getFragmentManager"; it is deprecated.(£ÔÓûÿÿÿÿ
+L
+java:S1874["6Remove this use of "findPreference"; it is deprecated.(´²°á
+Q
+java:S1874;";Remove this use of "getPreferenceScreen"; it is deprecated.(„Ìƒ
+U
+java:S1874^":Remove this use of "EditTextPreference"; it is deprecated.(íÕ¦ˆûÿÿÿÿ
+R
+java:S1874;"<Remove this use of "getSharedPreferences"; it is deprecated.(„Ìƒ
+W	java:S110"=This class has 10 parents which is greater than 5 authorized.(¼î‘×úÿÿÿÿ
+H
+java:S1874b"2Remove this use of "setSummary"; it is deprecated.(Ò¼‚„
+I
+java:S1874'".Remove this use of "commit"; it is deprecated.(»²ÏÃúÿÿÿÿ
+Q
+java:S18743";Remove this use of "getPreferenceScreen"; it is deprecated.(„Ìƒ
+M
+java:S1874`"2Remove this use of "setSummary"; it is deprecated.(ÎÕá¿øÿÿÿÿ

@@ -1,0 +1,36 @@
+
+E
+java:S1604¥"(Make this anonymous inner class a lambda(®àÕx8âÛŒŒµ.
+K
+java:S1604é"(Make this anonymous inner class a lambda(‘óĞ¾ıÿÿÿÿ8š£¦ò°.
+^	java:S110O"=This class has 10 parents which is greater than 5 authorized.(ì÷Ğüÿÿÿÿ8âÛŒŒµ.
+
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±òür8š£¦ò°.
+F
+java:S1604×"(Make this anonymous inner class a lambda(Î¬¯”8âÛŒŒµ.
+F
+java:S1604à"(Make this anonymous inner class a lambda(Î¬¯”8âÛŒŒµ.
+u
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÉÎÍïıÿÿÿÿ8š£¦ò°.
+c
+java:S2147±"ECombine this catch with the one at line 303, which has the same body.(ï­£Ä8š£¦ò°.
+t
+java:S3776b"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨Œşÿÿÿÿ8³şËÔ¯.
+T
+java:S1874œ"1Remove this use of "getBitmap"; it is deprecated.(ÚıåÙøÿÿÿÿ8âÛŒŒµ.
+a
+java:S3252·">Use static access with "android.app.Activity" for "RESULT_OK".(‹¼³ˆüÿÿÿÿ8âÛŒŒµ.
+M
+java:S3740"/Provide the parametrized type for this generic.(„Äñà8š£¦ò°.
+F
+java:S1604‚"(Make this anonymous inner class a lambda(ûõ„¶8š£¦ò°.
+K
+java:S1604ò"(Make this anonymous inner class a lambda(ÍÍñªûÿÿÿÿ8š£¦ò°.
+D
+java:S1604k"(Make this anonymous inner class a lambda(®àÕx8âÛŒŒµ.
+F
+java:S1604"(Make this anonymous inner class a lambda(°üà­8š£¦ò°.
+i	java:S116\"MRename this field "Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Í¯…8‚ÖÂÔ¯.
+j	java:S116_"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º»ïí8òÛñ°.
+M
+java:S1066•"/Merge this if statement with the enclosing one.(—ÖëÖ8š£¦ò°.

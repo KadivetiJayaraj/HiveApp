@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal">
+
+    <com.devspark.robototextview.widget.RobotoTextView
+        android:id="@+id/dateheader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Yesterday"
+        android:layout_centerHorizontal="true"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="0.5dp"
+        android:paddingBottom="0.5dp"
+        android:background="@drawable/date_header"
+        android:textColor="@color/black"
+        android:textSize="@dimen/default_header_timestamp_text_size"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dateheader"
+        android:id="@+id/msglayout"
+        android:orientation="horizontal">
+
+
+        <!--  <androidx.cardview.widget.CardView
+              android:layout_width="150dp"
+              android:layout_height="150dp"
+              android:layout_marginLeft="20dp"
+              android:layout_marginTop="10dp"
+              android:layout_marginBottom="10dp"
+              android:background="@color/lightgray"
+              app:cardCornerRadius="15dp"
+              app:cardElevation="4dp">
+
+              <RelativeLayout
+                  android:layout_width="150dp"
+                  android:layout_height="150dp"
+                  android:layout_marginRight="10dp"
+                  android:layout_marginBottom="10dp">
+
+                  <androidx.cardview.widget.CardView
+                      android:layout_width="150dp"
+                      android:layout_height="150dp"
+                      android:layout_margin="5dp"
+                      android:background="@color/lightgray"
+                      app:cardCornerRadius="10dp"
+                      app:cardElevation="4dp">
+
+                      <ImageView
+                          android:id="@+id/message_image_view"
+                          android:layout_width="140dp"
+                          android:layout_height="140dp"
+                          android:contentDescription="TODO"
+                          android:scaleType="centerCrop" />
+
+                  </androidx.cardview.widget.CardView>
+              </RelativeLayout>
+
+          </androidx.cardview.widget.CardView>-->
+
+        <RelativeLayout
+            android:id="@+id/rl_image_attach_container"
+            android:layout_width="260dp"
+            android:layout_height="200dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/attachment_image_placeholder_left"
+            android:visibility="visible"
+            tools:visibility="visible">
+
+            <ImageView
+                android:id="@+id/message_image_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="TODO"
+                android:scaleType="centerCrop" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/timestamp_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:text="12:00 PM"
+            android:textColor="@color/black"
+            android:textSize="@dimen/default_timestamp_text_size" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_seen"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:visibility="gone"
+        android:layout_marginLeft="15dp"
+        android:layout_below="@id/msglayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
+
+

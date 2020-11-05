@@ -1,0 +1,13 @@
+
+f
+java:S2259­"CA "NullPointerException" could be thrown; "mDate" is nullable here.(£¥Âİıÿÿÿÿ8‘œûÚ¬.
+_
+java:S2259É"CA "NullPointerException" could be thrown; "mDate" is nullable here.(£¥Âİıÿÿÿÿ
+n
+java:S1192’"KDefine a constant instead of duplicating this literal "sharedDate" 4 times.(©‰ù•ûÿÿÿÿ8‘œûÚ¬.
+i
+java:S1192“"KDefine a constant instead of duplicating this literal "sharedName" 4 times.(²èº8‘œûÚ¬.
+w
+java:S1192–"TDefine a constant instead of duplicating this literal "dd-MMM-yyyy hh:mm a" 3 times.(°€¡†øÿÿÿÿ8œûÚ¬.
+n
+java:S3776à"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(ˆÄŠ­ıÿÿÿÿ

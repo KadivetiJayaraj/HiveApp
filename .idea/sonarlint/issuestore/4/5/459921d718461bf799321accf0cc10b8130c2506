@@ -1,0 +1,21 @@
+
+X
+java:S1144Â"5Remove this unused private "downloadDocument" method.(ö³î¿üÿÿÿÿ8ÂÂÊ°.
+s
+java:S1450D"XRemove the "audioView" field and declare it as a local variable in the relevant methods.(•ç²şÿÿÿÿ
+r
+java:S1450B"WRemove the "videoURI" field and declare it as a local variable in the relevant methods.(Ù…í­ûÿÿÿÿ
+Y	java:S125"<This block of commented-out lines of code should be removed.(Ü¬¹÷8ÂÂÊ°.
+I
+java:S1172Ş"&Remove these unused method parameters.(ô¸™ûÿÿÿÿ8ÂÂÊ°.
+R
+java:S1874¡"/Remove this use of "Builder"; it is deprecated.(îäÅûÿÿÿÿ8ÂÂÊ°.
+y
+java:S1450E"^Remove the "mediaController" field and declare it as a local variable in the relevant methods.(èÖšúÿÿÿÿ
+e
+java:S4042Ò"IUse "java.nio.Files#delete" here for better messages on error conditions.(ÕÊ†¬øÿÿÿÿ
+A
+java:S1659H"&Declare "videoURL" on a separate line.(÷É¹˜øÿÿÿÿ
+s
+java:S1450C"XRemove the "videoView" field and declare it as a local variable in the relevant methods.(²‡ÖØüÿÿÿÿ
+V	java:S899Ò";Do something with the "boolean" value returned by "delete".(ÕÊ†¬øÿÿÿÿ

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/background_color"
+    android:orientation="vertical">
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:focusable="true"
+            style="@style/MySearchViewStyle"
+            android:animateLayoutChanges="true"
+            android:focusableInTouchMode="true"
+            android:theme="@style/AppTheme1">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/toolbarId"
+                app:layout_scrollFlags="scroll|enterAlways">
+
+                <androidx.appcompat.widget.Toolbar
+                    android:id="@+id/toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorPrimary"
+                    style="@style/MySearchViewStyle"
+                    android:theme="@style/AppTheme1"
+                    android:minHeight="?attr/actionBarSize">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="15dp"
+                            android:text="@string/app_name"
+                            android:textStyle="bold"
+                            android:gravity="center|center_vertical"
+                            android:textColor="@color/white"
+                            android:textSize="20sp"
+                            android:layout_marginStart="15dp" />
+
+                    </LinearLayout>
+
+
+                </androidx.appcompat.widget.Toolbar>
+
+                <include
+                    layout="@layout/search_toolbar"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <com.google.android.material.tabs.TabLayout
+                android:id="@+id/chatsTablayout"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="bottom"
+                app:tabBackground="@color/colorPrimary"
+                app:tabGravity="fill"
+                app:tabMode="fixed"
+                app:tabIndicatorColor="@color/white"
+                app:tabTextAppearance="@android:style/TextAppearance.Widget.TabWidget"
+                app:tabSelectedTextColor="@color/white"
+                app:tabTextColor="@color/white" />
+        </com.google.android.material.appbar.AppBarLayout>
+
+
+        <include layout="@layout/content_main_chat" />
+
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/get_friendsList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:layout_gravity="bottom|end"
+        android:tint="@color/white"
+        android:foregroundGravity="center"
+        android:outlineSpotShadowColor="@color/colorAccent"
+        android:outlineAmbientShadowColor="@color/colorAccent"
+        android:contentDescription="@string/submit"
+        tools:ignore="VectorDrawableCompat"
+        android:src="@drawable/ic_person_add_black_24dp" />
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+

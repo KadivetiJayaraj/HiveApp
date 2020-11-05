@@ -1,0 +1,10 @@
+
+D
+java:S1068!"'Remove this unused "TAG" private field.(„ßé–8‘âŠÙ¯.
+Y	java:S110"=This class has 10 parents which is greater than 5 authorized.(˜Ôªõ8ãÛŒŒµ.
+J
+java:S16048"(Make this anonymous inner class a lambda(ÍÍñªûÿÿÿÿ8¨’¹”µ.
+_
+java:S2387""="sharedPrefsHelper" is the name of a field in "BaseActivity".(‰ÓÇıÿÿÿÿ8ãÛŒŒµ.
+‚
+java:S1450""`Remove the "sharedPrefsHelper" field and declare it as a local variable in the relevant methods.(‰ÓÇıÿÿÿÿ8ûÀ®“±.

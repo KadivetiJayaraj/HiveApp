@@ -1,0 +1,17 @@
+
+>
+java:S1185ò"(Remove this method to simply inherit it.(¹§ 
+R
+java:S1874”"/Remove this use of "Builder"; it is deprecated.(îäÅûÿÿÿÿ8Ş‘Ê°.
+N
+java:S1481a"1Remove this unused "chatFriendId" local variable.(‡±ÿã8Ş‘Ê°.
+I
+java:S1172Ğ"&Remove these unused method parameters.(ô¸™ûÿÿÿÿ8Ş‘Ê°.
+t
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¨Œşÿÿÿÿ8Ş‘Ê°.
+N
+java:S1068G"3Remove this unused "NOTIFICATION_ID" private field.(Ü³ï©úÿÿÿÿ
+g
+java:S1301©"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+]
+java:S1854a"@Remove this useless assignment to local variable "chatFriendId".(‡±ÿã8Ş‘Ê°.

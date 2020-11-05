@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272032136592",
+    "firebase_url": "https://hime-bc1c5.firebaseio.com",
+    "project_id": "hime-bc1c5",
+    "storage_bucket": "hime-bc1c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272032136592:android:e1f0707f23c03d6c070715",
+        "android_client_info": {
+          "package_name": "com.jayaraj.hime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272032136592-itk1d24stfi5lavtbrp95fkcq1hq7qo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jayaraj.hime",
+            "certificate_hash": "91dfbc32730b66feac7458f8733cf3f4ece54267"
+          }
+        },
+        {
+          "client_id": "272032136592-aos5ccrfckretpgq6unuq56lm8r11a8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRxiVCcsJ9Cd21rxcIYJ4PLWYhhDElqcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272032136592-aos5ccrfckretpgq6unuq56lm8r11a8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

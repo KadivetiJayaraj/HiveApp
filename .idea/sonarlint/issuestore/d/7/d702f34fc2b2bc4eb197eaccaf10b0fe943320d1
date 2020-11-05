@@ -1,0 +1,30 @@
+
+L
+java:S1874
+"6Remove this use of "ListPreference"; it is deprecated.(Ãè„ô
+e
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‚óË‹øÿÿÿÿ
+Q
+java:S1874"6Remove this use of "ListPreference"; it is deprecated.(Á‹­úÿÿÿÿ
+e
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û ä¨ıÿÿÿÿ
+Q
+java:S1874"6Remove this use of "ListPreference"; it is deprecated.(†–œ‚øÿÿÿÿ
+e
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó¬ú—ûÿÿÿÿ
+K
+java:S1874"6Remove this use of "ListPreference"; it is deprecated.(ÇòŞ+
+e
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(½¹©üÿÿÿÿ
+Q
+java:S1874"6Remove this use of "ListPreference"; it is deprecated.(·ÿä¶úÿÿÿÿ
+e
+java:S1874 "JDon't override a deprecated method or explicitly mark it as "@Deprecated".(µœª§ûÿÿÿÿ
+K
+java:S1874""0Remove this use of "setValue"; it is deprecated.(öÌö‚ùÿÿÿÿ
+F
+java:S1874$"0Remove this use of "getValue"; it is deprecated.(î Ÿ
+K
+java:S1874%"0Remove this use of "setValue"; it is deprecated.(öÌö‚ùÿÿÿÿ
+P
+java:S1874'"5Remove this use of "notifyChanged"; it is deprecated.(½ÚŸ×úÿÿÿÿ

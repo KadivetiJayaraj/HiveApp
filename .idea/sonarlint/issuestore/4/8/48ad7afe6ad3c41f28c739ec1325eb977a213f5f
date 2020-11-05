@@ -1,0 +1,22 @@
+
+d
+java:S1854"DRemove this useless assignment to local variable "notificationType".(ýßØðÿÿÿÿÿ8µ¶Íßª.
+F
+java:S1481"+Remove this unused "intent" local variable.(„ò©¨8²¹Ïßª.
+\
+java:S1854"<Remove this useless assignment to local variable "meldocId".(™âÛÇýÿÿÿÿ8µ¶Íßª.
+M
+java:S1481"-Remove this unused "meldocId" local variable.(™âÛÇýÿÿÿÿ8µ¶Íßª.
+U
+java:S1481"5Remove this unused "notificationType" local variable.(ýßØðÿÿÿÿÿ8µ¶Íßª.
+M
+java:S1481"-Remove this unused "meldocId" local variable.(™âÛÇýÿÿÿÿ8³›Ïßª.
+d
+java:S1854"DRemove this useless assignment to local variable "notificationType".(ýßØðÿÿÿÿÿ8³›Ïßª.
+J
+java:S1874C"/Remove this use of "Builder"; it is deprecated.(žîäÅûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¼¨¡Ö8©àÍßª.
+\
+java:S1854"<Remove this useless assignment to local variable "meldocId".(™âÛÇýÿÿÿÿ8³›Ïßª.
+U
+java:S1481"5Remove this unused "notificationType" local variable.(ýßØðÿÿÿÿÿ8³›Ïßª.

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="ripple_color" format="color" />
+    <attr name="webview_icon" format="reference" />
+    <attr name="plus_icon" format="reference" />
+    <attr name="back_icon" format="reference" />
+    <attr name="share_icon" format="reference" />
+
+
+    <declare-styleable name="RTCGlView">
+        <attr name="mainMirror" format="boolean" />
+        <attr name="secondMirror" format="boolean" />
+        <attr name="mainCoords" format="reference" />
+        <attr name="secondCoords" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SeekBarPreference">
+        <attr name="min" format="integer" />
+        <attr name="stepSize" format="integer" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,44 @@
+
+Z
+java:S3252 ">Use static access with "android.app.Activity" for "RESULT_OK".(‹¼³ˆüÿÿÿÿ
+g
+java:S3252ý"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(ðÄÚ¼
+]
+java:S1192®"FDefine a constant instead of duplicating this literal "users" 4 times.(²áÔñ
+V	java:S1108"<This class has 9 parents which is greater than 5 authorized.(”“ðíúÿÿÿÿ
+>
+java:S1604º"(Make this anonymous inner class a lambda(®àÕx
+M
+java:S1874‚"1Remove this use of "getBitmap"; it is deprecated.(ÚýåÙøÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(®àÕx
+g
+java:S3252ý"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ðÄÚ¼
+>
+java:S1604Õ"(Make this anonymous inner class a lambda(®àÕx
+^
+java:S1192™"GDefine a constant instead of duplicating this literal "Cancel" 3 times.(Ë€ÖÂ
+?
+java:S1604Ò"(Make this anonymous inner class a lambda(Î¬¯”
+F
+java:S1066û"/Merge this if statement with the enclosing one.(—ÖëÖ
+>
+java:S1604¤"(Make this anonymous inner class a lambda(®àÕx
+>
+java:S1604‚"(Make this anonymous inner class a lambda(®àÕx
+=
+java:S1604Y"(Make this anonymous inner class a lambda(®àÕx
+>
+java:S1604Ü"(Make this anonymous inner class a lambda(®àÕx
+N
+java:S2589y"8Remove this expression which always evaluates to "false"(î„§™
+\
+java:S2147š"ECombine this catch with the one at line 408, which has the same body.(ï­£Ä
+<
+java:S1068H"&Remove this unused "db" private field.(„½á
+=
+java:S1604s"(Make this anonymous inner class a lambda(®àÕx
+>
+java:S1604‚"(Make this anonymous inner class a lambda(®àÕx
+?
+java:S1604É"(Make this anonymous inner class a lambda(Î¬¯”

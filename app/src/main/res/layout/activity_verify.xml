@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.VerifyActivity">
+
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="150dp"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:text="@string/enter_6_digit_otp_sent_to_your_number"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/verifyCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textview"
+        android:layout_centerInParent="true"
+        android:ems="10"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:hint="@string/enter_verfification_code"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/verifyButton"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/verifyCode"
+        android:background="@color/colorAccent"
+        android:layout_marginTop="30dp"
+        android:text="@string/verify" />
+
+    <TextView
+        android:id="@+id/resendOtp"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/verifyButton"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        android:text="@string/resend_otp" />
+
+</RelativeLayout>

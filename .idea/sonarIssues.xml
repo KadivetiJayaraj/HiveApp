@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ChatApplication/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ChatApplication/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.idea/vcs.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/crashlytics/res/dev/debug/values/com_crashlytics_build_id.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/fabric/res/dev/debug/values/com_crashlytics_build_id.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/AddProfileActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/VerifyActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/activities/OpponentsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/adapters/ChatListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/adapters/ChatRoomAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/adapters/ContactsListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/dbhelper/ContactsDB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/dbhelper/FriendDB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/emoji/Emojicon.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/interfaces/SearchInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/model/Consersation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/model/Conversation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/model/ListChats.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/model/Message.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/notifications/NotificationSettings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/quickblox/util/ChatPingAlarmManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/quickblox/util/NetworkConnectionChecker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/quickblox/util/QBResRequestExecutor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/service/APIService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/service/FriendChatService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/service/ServiceUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/AddProfileActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/BaseActivity1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/HomeChatScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/MainActivityChat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/SplashScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/chat/BlankFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/chat/ChatScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/chat/ChatsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/chat/GroupsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/chat/HomeChatScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/chat/MainChatActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/chat/MainTabScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/contacts/RegiteredContacts.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/dashboard/CallsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/dashboard/ChatScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/dashboard/ChatsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/dashboard/GroupFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/dashboard/HomeChatScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/dashboard/HomeScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/dashboard/MoreActvity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/dashboard/MoreFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/fragments/ScreenShareFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/quickblox/activities/AppInfoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/quickblox/activities/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/quickblox/activities/OpponentsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/quickblox/activities/SplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/ui/quickblox/fragments/IncomeCallFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/util/Animation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/util/Consts.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/util/FileUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/util/SharedPrefManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jayaraj/hime/util/SplashScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/bottom_navigation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_arrow_back_black_24dp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/ic_search_dark_blue_24dp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/box6.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_camera_outline.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_close_black_24dp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_more_black_24dp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_person_add_black_24dp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_search_dark_blue_24dp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_send_black_24dp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/my_cursor.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/shape_oval_accent.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/shape_oval_count.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/shape_oval_white_green.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_chat_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_file_download.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main_chat.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main_chat_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main_tab_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_regitered_contacts.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_verify.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_web_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/custom_chat_friends_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_chats.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_group.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_groups.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_home_chat_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_video.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/notification_counter.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/rc_item_add_friend.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/search_toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/activity_opponents.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/ids.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HiMeChat/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/meldoc/connections/ConnectionsRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/meldoc/documentsupload/UploadKyc.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/meldoc/profile/ProfileFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/meldoc/requests/UserDetailedView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/activities/DashboardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/chat/ChatScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/chat/FriendsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/connections/ConnectionsDirectory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/connections/ConnectionsFriends.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/connections/ConnectionsPageActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/hospital/HospitalsAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/hospital/ViewHospitalsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/patients/ViewPatientsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/procedures/ViewProceduresActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/requests/RequestReceived.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/requests/RequestSent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/requests/RequestsViewFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/java/com/melhealth/meldoc/utils/Animation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/res/layout/activity_connections_page.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/res/layout/fragment_requests_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/res/layout/search_toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/res/menu/searchfile.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Anusha/androidapp/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/Jayaraj/BriflyNews/app/src/main/java/com/briflynews/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/androidTest/java/com/meldoc/ExampleInstrumentedTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/activities/DashboardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/activities/ForgotOTPActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/activities/ForgotPasswordActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/activities/OTPVerification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/activities/Register1Activity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/activities/RegisterActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/activities/ResetPasswordActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/activities/SettingsScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/apiInterface/APIService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/apiInterface/IResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/apiInterface/SearchInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/apiInterface/VolleyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/authentication/FaqData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/authentication/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/authentication/SplashScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/AddGroupParticipants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/ChatFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/ChatRoomAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/ChatScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/ChatsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/CreateGroupActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/EndlessRecyclerOnScrollListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/FriendsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/GroupChatScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/GroupImageEdit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/GroupInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/GroupsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/Message.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/MessageFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/chat/MessagesListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/connections/ConnectionsDetailView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/connections/ConnectionsDirectory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/connections/ConnectionsFriends.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/connections/ConnectionsPageActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/connections/ConnectionsRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/dashboard/BannerClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/dashboard/DashboardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/dashboard/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/dashboard/SliderAdapterExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/fragments/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/fragments/ProfileFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/hospital/AddHospitalFormActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/hospital/DisplayHospitalDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/hospital/HospitalsAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/hospital/ViewHospitalsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/loginregactivities/SettingsScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/loginregactivities/SplashScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/model/BannerClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/newsfeed/BrowserActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/newsfeed/NewsFeedActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/notifications/FirebaseMessagingServices.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/notifications/NotificationSettings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/notifications/OreoNotification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/patients/AddPatientActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/patients/PatientViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/patients/ViewPatientsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/procedures/AddProcedureActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/procedures/EditProcedureActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/procedures/ProcedureFullScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/procedures/ViewProceduresActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/profile/ProfileEditActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/profile/ProfileFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/profile/ProfileFullScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/requests/RequestReceived.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/requests/RequestSent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/requests/RequestsViewFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/requests/UserDetailedView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/utils/Animation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/utils/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/utils/AppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/utils/MDConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/utils/NoInternet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/utils/NoInternetSnack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/utils/SharedPrefManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/utils/Update.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/meldoc/utils/WebViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/activities/DashboardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/activities/ForgotOTPActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/activities/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/activities/RegisterActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/activities/ResetPasswordActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/activities/SettingsScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/activities/SplashScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/apiservices/APIService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/chat/ChatFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/chat/ChatRoomAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/chat/ChatScreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/chat/MessagesListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/fragments/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/hospital/AddHospitalsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/hospital/ViewHospitalsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/model/BannerClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/patients/ViewPatientsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/procedures/DetailsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/procedures/EditDetailsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/procedures/ViewProceduresActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/profile/ProfileEditActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/requests/RequestSent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/requests/RequestsViewFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/utils/AppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/java/com/melhealth/meldoc/utils/WebViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/drawable-v21/date_header.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/drawable/color_gallery_icon.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/drawable/date_header.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/drawable/shape_oval_green.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_add_hospital_form.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_add_hospitals.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_add_patient.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_add_procedure.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_browser.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_chat_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_connections_detail_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_connections_page.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_connections_request.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_display_hospital_details.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_edit_hospital.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_edit_procedure.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_forgot_otp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_friends.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_group_image_edit.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_group_info.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_notification_settings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_procedure_full_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_profile_edit.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_user_detailed_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_view_hospitals.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_view_patients.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_view_procedures.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/activity_web_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/content_requests.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/custom_chat_friends_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/custom_dialog_profile_options_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/custom_group_participants_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/custom_image_upload.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/custom_media_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/fragment_chat.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/fragment_chats.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/fragment_connections_directory.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/fragment_connections_friends.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/fragment_groups.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/fragment_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/fragment_message.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/fragment_requests_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/group_subject_dialog.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/item_date_header.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/item_incoming_file_grp_msg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/item_incoming_file_msg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/item_incoming_grp_message.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/item_incoming_img_grp_msg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/item_incoming_img_msg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/item_incoming_message.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/item_outgoing_file_msg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/item_outgoing_img_msg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/item_outgoing_message.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/messages_count.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/layout/requestlist.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/menu/group_name_update.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/menu/media_upload_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/menu/save_button.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/app/src/main/res/xml/pref_chats.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Meldoc Project/androidapp/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MyApplication/app/src/main/java/com/jayaraj/myapplication/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MyApplication/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MyApplication/app/src/main/res/layout/search_toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MyApplication/app/src/main/res/layout/toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MyApplication/app/src/main/res/menu/menu_search.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MyApplication/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MyApplication/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MyApplication/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MyApplication/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Messenger-master/Messenger-master/app/src/main/res/layout/chat_item_left.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Messenger-master/Messenger-master/app/src/main/res/layout/chat_item_right.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/SearchToolbarExample-master/SearchToolbarExample-master/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/SearchViewSample-master/SearchViewSample-master/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/SearchViewSample-master/SearchViewSample-master/app/src/main/res/layout/search_toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/SearchViewSample-master/SearchViewSample-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/quickblox-android-sdk-master/quickblox-android-sdk-master/sample-chat-java/app/src/main/java/com/quickblox/sample/chat/java/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/quickblox-android-sdk-master/quickblox-android-sdk-master/sample-videochat-java/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/quickblox-android-sdk-master/quickblox-android-sdk-master/sample-videochat-java/app/src/main/java/com/quickblox/sample/videochat/java/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/quickblox-android-sdk-master/quickblox-android-sdk-master/sample-videochat-java/app/src/main/java/com/quickblox/sample/videochat/java/activities/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jayaraj/Projects/AltaChatApp/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jayaraj/Projects/AltaChatApp/app/src/main/java/com/example/altachatapp/MainActivityChat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jayaraj/Projects/AltaChatApp/app/src/main/java/com/example/altachatapp/ui/ChatActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jayaraj/Projects/AltaChatApp/app/src/main/java/com/example/altachatapp/ui/FriendsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jayaraj/Projects/AltaChatApp/app/src/main/java/com/example/altachatapp/ui/UserProfileFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jayaraj/Projects/AltaChatApp/app/src/main/res/layout/activity_main_chat.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Jayaraj/Projects/AltaChatApp/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

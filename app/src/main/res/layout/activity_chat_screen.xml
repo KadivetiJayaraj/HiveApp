@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/contentRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/chat_back_ground"
+    android:orientation="vertical">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:minHeight="?attr/actionBarSize">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="7dp"
+                app:srcCompat="@drawable/ic_arrow_white_black_24dp"
+                tools:ignore="VectorDrawableCompat"
+                android:layout_marginStart="3dp" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/chat_avatar"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_toRightOf="@+id/back"
+                android:src="@drawable/ic_account_circle_black_24dp" />
+
+            <TextView
+                android:id="@+id/nameFriend"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="6dp"
+                android:layout_toRightOf="@+id/chat_avatar"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/audio_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="9dp"
+                android:layout_marginRight="20dp"
+                app:srcCompat="@drawable/ic_local_phone_black_24dp"
+                tools:ignore="VectorDrawableCompat"
+                app:tint="@color/offWhite" />
+
+            <ImageView
+                android:id="@+id/video_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:layout_marginRight="20dp"
+                android:layout_toLeftOf="@+id/audio_call"
+                app:srcCompat="@drawable/ic_videocam_black_24dp"
+                tools:ignore="VectorDrawableCompat"
+                app:tint="@color/offWhite" />
+
+        </RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:paddingTop="60dp"
+        android:textColor="@color/black" />
+
+    <com.github.ybq.android.spinkit.SpinKitView xmlns:app="http://schemas.android.com/apk/res-auto"
+        style="@style/SpinKitView.Small.DoubleBounce"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:fitsSystemWindows="true"
+        android:visibility="gone"
+        app:SpinKit_Color="@color/colorAccent" />
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottom_container"
+        android:layout_below="@id/toolbar"
+        android:layout_margin="3dp">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerChat"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/bottom_container"
+            android:layout_below="@id/toolbar"
+            android:scrollbars="vertical"
+            android:fadeScrollbars="true"
+            android:layout_margin="5dp"
+            android:windowSoftInputMode="adjustResize">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_height"
+        android:background="@color/lineGray" />
+
+
+    <RelativeLayout
+        android:id="@+id/bottom_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toLeftOf="@+id/btnSend"
+        android:layout_marginStart="10dp"
+        android:layout_toStartOf="@+id/btnSend">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/box6"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/btnAttach"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_gravity="center_vertical"
+                        android:background="#00000000"
+                        android:tint="@color/black"
+                        android:src="@drawable/ic_attach_file_black_24dp" />
+
+                    <ImageButton
+                        android:id="@+id/btnEmoji"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:layout_gravity="center"
+                        android:background="#00000000"
+                        android:padding="10dp"
+                        android:scaleType="centerInside"
+                        android:tint="@color/black"
+                        android:src="@drawable/smiley" />
+
+                    <EditText
+                        android:id="@+id/editWriteMessage"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="-7dp"
+                        android:drawablePadding="20dp"
+                        android:hint="Type a message"
+                        android:paddingLeft="7dp"
+                        android:paddingRight="7dp"
+                        android:background="@null"
+                        android:scrollbars="vertical"
+                        android:fadeScrollbars="true"
+                        android:layout_weight="1"
+                        android:maxLines="4"
+                        android:minLines="1"
+                        android:layout_gravity="center"
+                        android:textColorHint="#090909"
+                        android:textSize="15sp"
+                        android:inputType="textCapSentences|textMultiLine"
+                        android:lineSpacingMultiplier="1.4"
+                        android:justificationMode="inter_word"
+                        tools:ignore="Autofill"
+                        android:layout_marginEnd="-7dp" />
+
+                    <com.rockerhieu.emojicon.EmojiconEditText
+                        android:id="@+id/editEmojicon"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/editWriteMessage"
+                        android:layout_alignParentBottom="true"
+                        android:visibility="gone" />
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_below="@+id/editEmojicon"
+                        android:layout_alignParentBottom="true"
+                        android:visibility="gone" />
+
+                    <ImageButton
+                        android:id="@+id/btnCamera"
+                        android:layout_width="45dp"
+                        android:layout_height="45dp"
+                        android:layout_gravity="center_vertical"
+                        android:background="#00000000"
+                        android:layout_marginRight="2dp"
+                        android:padding="2dp"
+                        android:scaleType="centerInside"
+                        android:src="@drawable/ic_camera_outline"
+                        tools:ignore="ContentDescription"
+                        android:layout_marginEnd="2dp" />
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ImageButton
+        android:id="@+id/btnSend"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="2dp"
+        android:enabled="false"
+        android:gravity="center"
+        android:background="#00000000"
+        android:tint="@color/colorAccent"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_send_black_24dp"
+        tools:ignore="ContentDescription"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>
